@@ -1,0 +1,6 @@
+numpy
+langchain
+scikit-learn
+pandas
+setuptools
+-e . 
